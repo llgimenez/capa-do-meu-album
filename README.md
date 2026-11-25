@@ -1,6 +1,6 @@
 # capa-do-meu-album
 
-Material da disciplina de Autoconhecimento feito no Canva e hospedado no GitHub.
+Material da disciplina de Autoconhecimento feito no Canva para refletir meus princípios.
 
 ![Capa do meu álbum](capa-album.png)
 
