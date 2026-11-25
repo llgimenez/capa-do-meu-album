@@ -13,7 +13,7 @@ Material da disciplina de Autoconhecimento feito no Canva e hospedado no GitHub.
 * **Imagem central:** *Silhueta de um gato* — Simboliza independência, tranquilidade e intuição.
 * **Paleta de 3 cores:** *Rosa, branco e preto* — Trazendo o contraste entre a suavidade/leveza (rosa e branco) e a firmeza/profundidade (preto).
 * **Fundo:** *Degradê em tons de rosa* — Remete a uma atmosfera acolhedora e calma.
-* **Selo:** *Brasão no canto inferior direito* — Representa os valores inegociáveis e a base familiar que carrego comigo.
+* **Selo:** *Brasão no canto inferior direito* — Representa os objetivos que carrego comigo.
 
 ---
 
