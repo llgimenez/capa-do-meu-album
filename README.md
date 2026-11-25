@@ -1,4 +1,4 @@
-# capa-do-meu-album
+# Capa do Meu Álbum
 
 Material da disciplina de Autoconhecimento feito no Canva para refletir meus princípios.
 
